@@ -41,7 +41,7 @@ public class Main {
             }
         });
 
-
+//deneme
         // Programın sonlanmasını engellemek için beklet
         while (true) {
             try {
